@@ -16,7 +16,7 @@
   <li><a href="#text-area-underline">Text Area Underline</a> | <a href="#text-area-underline-usage">Usage</a></li>
 </ul>
 
-<hr style="border-top: 1px thin #000;">
+-----
 
 <h2 id="addons-overview">Addons Overview</h2>
 
@@ -30,7 +30,7 @@
   <li><strong>Text Area Underline:</strong> Replaces the standard text input outline with a sleek, dynamic underline that follows the color scheme of the theme.</li>
 </ul>
 
-<hr style="border-top: 1px thin #000;">
+-----
 
 <h2 id="gradients">Gradients</h2>
 <p>Enhance your theme with <strong>colorful gradients</strong>.</p>
@@ -55,7 +55,7 @@
   <p>Customize the values as needed, and <strong>you're done!</strong></p>
 </details>
 
-<hr style="border-top: 1px thin #000;">
+-----
 
 <h2 id="server-size">Server Size</h2>
 <p>Adjust the server size with a simple variable.</p>
@@ -78,7 +78,7 @@
   <p>Change the value as needed to customize it, and <strong>you're set!</strong></p>
 </details>
 
-<hr style="border-top: 1px thin #000;">
+-----
 
 <h2 id="old-discord-font">Old Discord Font</h2>
 <p>Revert to the old Discord font, Whitney.</p>
@@ -100,7 +100,7 @@
   <p><em>Note:</em> If you already have a Whitney font import, this step may be unnecessary.</p>
 </details>
 
-<hr style="border-top: 1px thin #000;">
+-----
 
 <h2 id="speech-bubbles">Speech Bubbles</h2>
 <p>Transform your chat text into <strong>speech bubbles</strong> for a fresh look.</p>
@@ -122,7 +122,7 @@
 </code></pre>
 </details>
 
-<hr style="border-top: 1px thin #000;">
+-----
 
 <h2 id="text-area-underline">Text Area Underline</h2>
 <p>Replace the default text area outline with an <strong><ins>elegant, dynamic underline</strong></ins>.</p>
